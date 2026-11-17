@@ -1,0 +1,10 @@
+com\example\jwtvalidation\SecurityConfig$JwtSecretProperties.class
+com\example\jwtvalidation\JwtAuthenticationFilter.class
+com\example\jwtvalidation\JwtController$ProtectedResponse.class
+com\example\jwtvalidation\SecurityConfig.class
+com\example\jwtvalidation\JwtController.class
+com\example\jwtvalidation\JwtvalidationApplication.class
+com\example\jwtvalidation\JwtValidator$JwtUser.class
+com\example\jwtvalidation\JwtValidator.class
+com\example\jwtvalidation\JwtController$ValidationResponse.class
+com\example\jwtvalidation\JwtGenerator.class
